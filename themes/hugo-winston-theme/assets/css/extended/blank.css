@@ -1,0 +1,57 @@
+.custom {
+    background: red;
+}
+
+@media (min-width: 767px){
+div.content {
+    width: 80%;
+}}
+
+span.pygment {
+    color: #C51D48;
+}
+
+@media (min-width: 600px){
+    .split-container {
+        display: flex;
+    }}
+
+.split-container {
+    width: 100%;
+    margin: 40px 0
+}
+
+.left-side {
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-radius: 50%; /* Make it a circle */
+}
+
+.left-side img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.left-side figure {
+    margin: 0!important;
+}
+
+.right-side {
+    flex: 1;
+    box-sizing: border-box;
+    padding-left: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    font-size: xx-large;
+    color: black;
+    font-weight: 700;
+    /* line-height: 2; */
+}
