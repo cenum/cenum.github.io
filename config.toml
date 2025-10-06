@@ -51,11 +51,11 @@ pygmentsUseClasses = true
     name = 'Home'
     url = '/'
     weight = 1
-  # [[menu.main]]
-  #   name = "Network"
-  #   identifier = "news"
-  #   weight = 2
-  #   url = "/network/"
+  [[menu.main]]
+    name = "Network"
+    identifier = "news"
+    weight = 2
+    url = "/network/"
   [[menu.main]]
     name = "ISUF"
     identifier = "isuf"
