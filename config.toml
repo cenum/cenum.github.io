@@ -53,11 +53,16 @@ pygmentsUseClasses = true
     weight = 1
   [[menu.main]]
     name = "Network"
-    identifier = "news"
+    identifier = "network"
     weight = 2
     url = "/network/"
   [[menu.main]]
+    name = "Constitution"
+    identifier = "constitution"
+    weight = 3
+    url = "/constitution/"
+  [[menu.main]]
     name = "ISUF"
     identifier = "isuf"
-    weight = 3
+    weight = 4
     url = "https://urbanform.org"
