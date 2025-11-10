@@ -39,7 +39,7 @@ Membership of the group is open to individual researchers and institutions suppo
 
 ## 4. Group organization
 
-The group should be organised around a Steering Committee composed of eight members Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee. The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
+The group should be organised around a Steering Committee composed of one representative of each member country. Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee. The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
 
 The Committee should meet once a year.
 
