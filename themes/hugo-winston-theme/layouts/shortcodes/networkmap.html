@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minimalist Network Map</title>
+    <style>
+        svg {
+            background: #fff;
+        }
+
+        .network-line {
+            fill: none;
+            stroke: white;
+            stroke-width: 1px;
+            stroke-opacity: 1;
+        }
+
+        .city-node {
+            fill: #fff;
+            stroke: var(--dot-color);
+            stroke-width: 1px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <svg width="900" height="600"></svg>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+
+    <script>
+        const svg = d3.select("svg");
+        const width = +svg.attr("width");
+        const height = +svg.attr("height");
+
+        // 1. DATA: Locations of members
+        const cities = [
+            { name: "Prague", coords: [14.4378, 50.0755] },
+            { name: "Dresden", coords: [13.7373, 51.0504] },
+            { name: "Munich", coords: [11.5820, 48.1351] },
+            { name: "Debrecen", coords: [21.6211, 47.5316] },
+            { name: "Vienna", coords: [16.3738, 48.2082] },
+            { name: "Winterthur", coords: [8.6963, 47.5056] },
+            { name: "Bratislava", coords: [17.1077, 48.1486] },
+            { name: "Zagreb", coords: [15.9819, 45.8150] },
+            { name: "Zurich", coords: [8.5417, 47.3769] }
+        ];
+
+        // 2. PROJECTION: Focused on Central Europe
+        // Conic Conformal preserves shapes well for mid-latitudes (like Europe)
+        const projection = d3.geoConicConformal()
+            .center([15, 50])      // Center on approx Prague/border
+            .scale(3000)           // Zoom level (Higher = closer)
+            .translate([width / 2, height / 2]);
+
+        const pathGenerator = d3.geoPath().projection(projection);
+
+        // 3. LOAD MAP DATA & RENDER
+        // We use a hosted TopoJSON file of the world
+        d3.json("https://unpkg.com/world-atlas@2.0.2/countries-50m.json").then(worldData => {
+
+            // A. Convert TopoJSON to GeoJSON
+            const countries = topojson.feature(worldData, worldData.objects.countries);
+
+            // Filter to only selected countries by ISO code (property name to be fixed after inspection)
+            // Filter to only selected countries by name
+            const wantedNames = [
+                "Germany", "Switzerland", "Austria", "Czechia", "Hungary", "Slovenia", "Croatia", "Slovakia"
+            ];
+            const filteredCountries = countries.features.filter(
+                f => wantedNames.includes(f.properties.name)
+            );
+
+            // B. Draw Country Borders Only (Lines)
+            svg.append("g")
+                .selectAll("path")
+                .data(filteredCountries)
+                .enter().append("path")
+                .attr("fill", "var(--dot-color)")
+                .attr("stroke", "white")
+                .attr("stroke-width", 3)
+                .attr("d", pathGenerator);
+
+            // C. Process Network (Delaunay)
+            // Convert Lat/Lon to Pixel [x, y]
+            const points = cities.map(c => {
+                const pixel = projection(c.coords);
+                c.x = pixel[0];
+                c.y = pixel[1];
+                return [c.x, c.y];
+            });
+
+            // Compute Delaunay
+            const delaunay = d3.Delaunay.from(points);
+
+            // D. Draw Network Lines
+            svg.append("path")
+                .attr("class", "network-line")
+                .attr("d", delaunay.render());
+
+            // E. Draw Nodes (Cities)
+            svg.selectAll(".city-node")
+                .data(cities)
+                .enter().append("circle")
+                .attr("class", "city-node")
+                .attr("cx", d => d.x)
+                .attr("cy", d => d.y)
+                .attr("r", 8);
+
+        });
+    </script>
+</body>
+
+</html>
