@@ -35,7 +35,7 @@ The objectives of the group are to:
 
 ## 3. Membership
 
-Membership of the group is open to individual researchers and institutions supporting its objectives. A membership is voluntary with no legal basis.A balance in terms of disciplinary approaches, representation of the Central European countries, and the participation of different generations of researchers should be promoted.
+Membership of the group is open to individual researchers and institutions supporting its objectives. A membership is voluntary with no legal basis. A balance in terms of disciplinary approaches, representation of the Central European countries, and the participation of different generations of researchers should be promoted.
 
 ## 4. Group organization
 

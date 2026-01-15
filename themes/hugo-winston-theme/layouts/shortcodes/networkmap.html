@@ -27,7 +27,7 @@
 
 <body>
 
-    <svg width="900" height="600"></svg>
+    <svg width="900" height="800"></svg>
 
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://unpkg.com/topojson@3"></script>
@@ -41,7 +41,7 @@
         const cities = [
             { name: "Prague", coords: [14.4378, 50.0755] },
             { name: "Dresden", coords: [13.7373, 51.0504] },
-            { name: "Munich", coords: [11.5820, 48.1351] },
+            { name: "Munich", coords: [11.562, 48.140] },
             { name: "Debrecen", coords: [21.6211, 47.5316] },
             { name: "Vienna", coords: [16.3738, 48.2082] },
             { name: "Winterthur", coords: [8.6963, 47.5056] },
@@ -69,7 +69,7 @@
             // Filter to only selected countries by ISO code (property name to be fixed after inspection)
             // Filter to only selected countries by name
             const wantedNames = [
-                "Germany", "Switzerland", "Austria", "Czechia", "Hungary", "Slovenia", "Croatia", "Slovakia"
+                "Germany", "Switzerland", "Austria", "Czechia", "Hungary", "Croatia", "Slovakia"
             ];
             const filteredCountries = countries.features.filter(
                 f => wantedNames.includes(f.properties.name)
