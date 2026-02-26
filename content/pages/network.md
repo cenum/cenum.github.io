@@ -20,6 +20,6 @@ scope is aligned with the scope of the ISUF.
 
 ## Current network
 
-The current network is composed of scholars from 7 countries and 12 institutions.
+The current network is composed of scholars from 7 countries and 13 institutions.
 
 {{< networkmap >}}
