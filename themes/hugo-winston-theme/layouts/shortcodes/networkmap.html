@@ -48,7 +48,8 @@
             { name: "Bratislava", coords: [17.1077, 48.1486] },
             { name: "Zagreb", coords: [15.9819, 45.8150] },
             { name: "Zurich", coords: [8.5417, 47.3769] },
-            { name: "Budapest", coords: [19.0402, 47.4979] }
+            { name: "Budapest", coords: [19.0402, 47.4979] },
+            { name: "Delft", coords: [4.37367, 51.99918] }
         ];
 
         // 2. PROJECTION: Focused on Central Europe
@@ -70,7 +71,7 @@
             // Filter to only selected countries by ISO code (property name to be fixed after inspection)
             // Filter to only selected countries by name
             const wantedNames = [
-                "Germany", "Switzerland", "Austria", "Czechia", "Hungary", "Croatia", "Slovakia"
+                "Germany", "Switzerland", "Austria", "Czechia", "Hungary", "Croatia", "Slovakia", "Netherlands"
             ];
             const filteredCountries = countries.features.filter(
                 f => wantedNames.includes(f.properties.name)

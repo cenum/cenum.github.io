@@ -16,10 +16,10 @@ morphology as a recognised domain of scholarly inquiry, while situating it withi
 wider international community of urban studies.
 
 The network aims to connect scholars based in the region of Central Europe, whose research
-scope is aligned with the scope of the ISUF.
+scope is aligned with the scope of the ISUF, and associated members from outside of the region.
 
 ## Current network
 
-The current network is composed of scholars from 7 countries and 13 institutions.
+The current network is composed of scholars from 8 countries and 14 institutions.
 
 {{< networkmap >}}

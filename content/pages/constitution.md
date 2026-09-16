@@ -37,9 +37,14 @@ The objectives of the group are to:
 
 Membership of the group is open to individual researchers and institutions supporting its objectives. A membership is voluntary with no legal basis. A balance in terms of disciplinary approaches, representation of the Central European countries, and the participation of different generations of researchers should be promoted.
 
+CENUM recongnises two types of memberships:
+
+- Members, who are researchers and institutions from countries of Central Europe
+- Associated members, who are researchers and institutions from countries outside of Central Europe.
+
 ## 4. Group organization
 
-The group should be organised around a Steering Committee composed of one representative of each member country. Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee. The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
+The group should be organised around a Steering Committee composed of one representative of each member country (excluding associate members). Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee. The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
 
 The Committee should meet once a year.
 
