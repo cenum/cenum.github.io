@@ -11,41 +11,36 @@ October 12–13, 2026
 
 Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC3MyC6)
 
-### Day 1 — Building the Shared Baseline (09:00–16:00)
+### Day 1 — Building the Shared Baseline (09:00–16:40)
 
 | Time | Session |
 | :------ | :---- |
 | | |
-| **09:00–09:10** | **Welcome and logistics** |
-| **09:10–09:30** | **CENUM and Central European urban morphology** | 
+| 09:30–09:50 | *Sanja Gašparović* |
+| 09:50–10:10 | *Mathias Jehling* |
+| 10:10–10:30 | *Denise Ehrhardt* |
 | | |
-| 09:30–09:50 | *Sanja Gasparovic* |
-| 09:50–10:10 | *Laura Kristekova* |
-| 10:10–10:30 | *Mathias Jehling* |
-| 10:15–10:30 | *Denise Ehrhardt* |
+| **10:30–11:00** |**Coffee break** |
 | | |
-| **10:30–11:00** | **Coffee break** | 
+| 11:00–11:20 | *Laura Krišteková Pastoreková (online)* |
+| 11:20–11:40 | *Elif Saruhan (online)* |
+| 11:40–12.00 | *Friedrich Hauer* |
 | | |
-| 11:00–11:15 | *Friedrich Hauer* |
-| 11:15–11:30 | *Elif Saruhan* |
-| 11:30–11:45 | *Martin Fleischmann* |
-| 11:45–12:00 | *Ana Mrda* |
+| **12:00–13:00** |**Lunch break** |
 | | |
-| **12:00–13:00** | **Lunch break** | 
+| 13:00–13:20 | *Martin Fleischmann* |
+| 13:20–13:40 | *Ana Mrđa* |
+| 13:40–14:00 | *Éva Lovra* |
+| 14:00–14:20 | *Monika Bočková*  |
+| 14:20–14:40 | *Urs Primas* |
 | | |
-| 13:00–13:15 | *Eva Lovra* |
-| 13:15–13:30 | *Monika Bočková*  |
-| 13:30–13:45 | *Urs Primas* |
-| 13:45–14:00 | *Daniela Maiullari* |
-| 14:00–14:15 | *Esra Suel* |
-| 14:15–14:30 | *Didem Türk Grigoletto* |
+| **14:40–15:00** | **Coffee break** |
 | | |
-| **14:30–14:45** | **Coffee break** | 
-| | |
-| 14:45–15:00 | *Julia Micklewright (PhD)* |
-| 15:00–15:15 | *Lukas Kopp (PhD)* |
-| | |
-| 15:15–16:00 | Discussion: Planning the Day 2 program |
+| 15:00–15:20 | *Daniela Maiullari* |
+| 15:20–15:40 | *Esra Suel* |
+| 15:40–16:00 | *Didem T. Grigoletto* |
+| 16:00–16:20 | *Julia Micklewright (PhD)* |
+| 16:20–16:40 | *Lukáš Kopp (PhD)* |
 | | |
 | **Evening** | **CENUM Dinner** | 
 
