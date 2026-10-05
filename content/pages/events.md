@@ -51,20 +51,20 @@ Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC
 
 | Time | Session | 
 | :------- | :---- | 
-| **09:00–10.00** | Recap and planning day  | 
+| 09:00–10.00 | Recap and planning day  | 
 | | |
 | **10:00–10:30** | **Coffee break** | 
 | | |
-| **10.30–12:00** | Roundtable discussion  |
+| 10.30–12:00 | Roundtable discussion  |
 | | |
 | **12:00–13:30** | **Lunch break** | 
 | | |
-| **13:30- 14.30** | Roundtable discussion |
+| 13:30- 14.30 | Roundtable discussion |
 | | |
-| **14:30–15:00** | **Coffee break** |
+| 1**4:30–15:00** | **Coffee break** |
 | | |
-| **15:00–15:30** | Closing session: CENUM roadmap, ISUF recognition pathway, next steps | 
-| **15:30–16:00** | Closing remarks and farewell |
+| 15:00–15:30 | Closing session: CENUM roadmap, ISUF recognition pathway, next steps | 
+| 15:30–16:00 | Closing remarks and farewell |
 
 
 ### Supported by
