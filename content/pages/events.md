@@ -15,6 +15,8 @@ Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC
 
 | Time | Session |
 | :------ | :---- |
+| 09:00–09:10 | Welcome and logistics |
+| 09:10–09:30 | Framing CENUM and Central European Urban Morphology|
 | | |
 | 09:30–09:50 | *Sanja Gašparović* |
 | 09:50–10:10 | *Mathias Jehling* |
