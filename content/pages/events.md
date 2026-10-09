@@ -11,7 +11,7 @@ October 12–13, 2026
 
 Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC3MyC6)
 
-### Day 1 — Building the Shared Baseline (09:00–17:00)
+### Day 1 — Building the Shared Baseline (09:00–17:20)
 
 | Time | Session |
 | :------ | :---- |
@@ -42,8 +42,9 @@ Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC
 | 15:30–15:40 | Message from Vitor Oliveira |
 | 15:40–16:00 | *Esra Suel* |
 | 16:00–16:20 | *Didem T. Grigoletto* |
-| 16:20–16:40 | *Julia Micklewright (PhD)* |
-| 16:40–17:00 | *Lukáš Kopp (PhD)* |
+| 16:20–16:40 | *Jana Zdráhalová* |
+| 16:40–17:00 | *Julia Micklewright (PhD)* |
+| 17:00–17:20 | *Lukáš Kopp (PhD)* |
 | | |
 | **Evening** | **CENUM Dinner** | 
 
