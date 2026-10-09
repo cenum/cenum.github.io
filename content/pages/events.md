@@ -11,7 +11,7 @@ October 12–13, 2026
 
 Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC3MyC6)
 
-### Day 1 — Building the Shared Baseline (09:00–16:40)
+### Day 1 — Building the Shared Baseline (09:00–17:00)
 
 | Time | Session |
 | :------ | :---- |
@@ -35,14 +35,15 @@ Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC
 | 13:40–14:00 | *Éva Lovra* |
 | 14:00–14:20 | *Monika Bočková*  |
 | 14:20–14:40 | *Urs Primas* |
+| 14:40–15:00 | *Daniela Maiullari* |
 | | |
-| **14:40–15:00** | **Coffee break** |
+| **15:00–15:30** | **Coffee break** |
 | | |
-| 15:00–15:20 | *Daniela Maiullari* |
-| 15:20–15:40 | *Esra Suel* |
-| 15:40–16:00 | *Didem T. Grigoletto* |
-| 16:00–16:20 | *Julia Micklewright (PhD)* |
-| 16:20–16:40 | *Lukáš Kopp (PhD)* |
+| 15:30–15:40 | Message from Vitor Oliveira |
+| 15:40–16:00 | *Esra Suel* |
+| 16:00–16:20 | *Didem T. Grigoletto* |
+| 16:20–16:40 | *Julia Micklewright (PhD)* |
+| 16:40–17:00 | *Lukáš Kopp (PhD)* |
 | | |
 | **Evening** | **CENUM Dinner** | 
 
@@ -61,7 +62,7 @@ Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC
 | | |
 | 13:30- 14.30 | Roundtable discussion |
 | | |
-| 1**4:30–15:00** | **Coffee break** |
+| **14:30–15:00** | **Coffee break** |
 | | |
 | 15:00–15:30 | Closing session: CENUM roadmap, ISUF recognition pathway, next steps | 
 | 15:30–16:00 | Closing remarks and farewell |
