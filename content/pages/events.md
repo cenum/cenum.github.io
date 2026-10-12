@@ -11,7 +11,7 @@ October 12–13, 2026
 
 Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC3MyC6)
 
-### Day 1 — Building the Shared Baseline (09:00–17:20)
+### Day 1 — Building the Shared Baseline (09:00–16:40)
 
 | Time | Session |
 | :------ | :---- |
