@@ -24,7 +24,7 @@ Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC
 | | |
 | **10:30–11:00** |**Coffee break** |
 | | |
-| 11:00–11:20 | *Laura Krišteková Pastoreková (online)* |
+| 11:00–11:20 | *Lukáš Kopp (PhD)* |
 | 11:20–11:40 | *Elif Saruhan (online)* |
 | 11:40–12.00 | *Friedrich Hauer* |
 | | |
@@ -43,7 +43,6 @@ Englersaal, [WSL, Birmensdorf, Switzerland](https://maps.app.goo.gl/eCmAq23WgHUC
 | 15:40–16:00 | *Esra Suel* |
 | 16:00–16:20 | *Didem T. Grigoletto* |
 | 16:20–16:40 | *Julia Micklewright (PhD)* |
-| 16:40–17:00 | *Lukáš Kopp (PhD)* |
 | | |
 | **Evening** | **CENUM Dinner** | 
 
