@@ -3,7 +3,7 @@ title: 'Events'
 url: events
 ---
 
-CENUM is about to meet for the first time.
+CENUM had its initial in-person meeting in October 2026. Next events are being prepared.
 
 ## CENUM Network Meeting 2026 
 
