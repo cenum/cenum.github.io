@@ -22,4 +22,22 @@ scope is aligned with the scope of the ISUF, and associated members from outside
 
 The current network is composed of scholars from 8 countries and 14 institutions.
 
+### Chair of the Steering Committee
+
+The current chair of the Steering Committee appointed for the period 2026 - 2028: 
+
+- **[Dr. Éva Lovra (HU)](https://epito.unideb.hu/en/dr-eva-lovra)**, University of Debrecen
+
+### Members of the Steering Committee
+
+The current members of the Steering Committee appointed for the period 2026 - 2028: 
+
+- [**Monika Bočková (SK)**](https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=13318)
+- [**Martin Fleischmann (CZ)**](https://martinfleischmann.net)
+- [**Sanja Gašparović (CR)**](https://www.arhitekt.hr/en/teaching/employee/sanjagasparovic,72.html)
+- [**Didem T. Grigoletto (CH)**](https://www.wsl.ch/de/mitarbeitende/turkdide/)
+- [**Friedrich Hauer (AT)**](https://urbanism-tuwien.at/en/_/team-member/friedrich-hauer)
+- [**Matthias Jehling (DE)**](https://www.ioer.de/en/institute/staff/jehling)
+
 {{< networkmap >}}
+ 
