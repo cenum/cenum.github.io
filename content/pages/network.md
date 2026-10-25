@@ -21,7 +21,7 @@ outside of the region.
 
 ## Current network
 
-The current network is composed of scholars from 8 countries and 14 institutions.
+The current network is composed of scholars from 9 countries and 15 institutions.
 
 ### Chair of the Steering Committee
 
