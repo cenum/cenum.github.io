@@ -48,5 +48,7 @@ The current members of the Steering Committee appointed for the period 2026 - 20
 - [**Matthias Jehling (DE)**](https://www.ioer.de/en/institute/staff/jehling), Leibniz
   Institute of Ecological Urban and Regional Development
 
+- [**Alma Zavodnik Lamovšek (SI)**](https://www.fa.uni-lj.si/en/imenik/alma-zavodnik-lamovsek-2/), University of Ljubljana
+
 {{< networkmap >}}
  
