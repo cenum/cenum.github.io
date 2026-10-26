@@ -39,7 +39,7 @@ The current members of the Steering Committee appointed for the period 2026 - 20
   Slovak Academy of Sciences
 - [**Martin Fleischmann (CZ)**](https://martinfleischmann.net), Charles University
 -
-  [**Sanja Gašparović (CR)**](https://www.arhitekt.hr/en/teaching/employee/sanjagasparovic,72.html),
+  [**Sanja Gašparović (HR)**](https://www.arhitekt.hr/en/teaching/employee/sanjagasparovic,72.html),
   University of Zagreb
 - [**Didem T. Grigoletto (CH)**](https://www.wsl.ch/de/mitarbeitende/turkdide/), WSL
 -
